@@ -1,0 +1,52 @@
+// This is the project stylesheet
+
+// Colors
+$black: rgba(0, 0, 0, 1);
+// $cornflower-blue: rgba(99, 144, 240, 1);
+$dark-slate-gray: rgba(73, 73, 73, 1);
+$transparent-dark-slate-gray: rgba(87, 86, 86, 0.774);
+// $transparent-cornflower-blue: rgba(99, 144, 240, 0.5);
+
+$white-smoke: rgba(243, 243, 243, 1);
+$yellow: rgba(236, 255, 23, 1);
+
+$normal: rgba(168, 167, 122, 1);
+$fire: rgba(238, 129, 48, 1);
+$water: rgba(99, 144, 240, 1);
+$electric: rgba(247, 208, 44, 1);
+$grass: rgba(122, 199, 76, 1);
+$ice: rgba(150, 217, 214, 1);
+$fighting: rgba(194, 46, 40, 1);
+$poison: rgba(163, 62, 161, 1);
+$ground: rgba(226, 191, 101, 1);
+$flying: rgba(169, 143, 243, 1);
+$psychic: rgba(249, 85, 135, 1);
+$bug: rgba(166, 185, 26, 1);
+$rock: rgba(182, 161, 54, 1);
+$ghost: rgba(115, 87, 151, 1);
+$dragon: rgba(111, 53, 252, 1);
+$dark: rgba(112, 87, 70, 1);
+$steel: rgba(183, 183, 206, 1);
+$fairy: rgba(214, 133, 173, 1);
+
+// Typographies
+@mixin inter-20-bold {
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 700;
+  line-height: normal;
+}
+
+@font-face {
+    font-family: "Dhurjati";
+    src: url("src/Dhurjati-Regular.ttf");
+    /* Añade otras propiedades de la fuente si es necesario, como weight y style */
+  }
+
+  @font-face {
+    font-family: "Inner";
+    src: url("src/Inter-VariableFont.ttf");
+    font-size: 20px;
+  font-weight: 700;
+    /* Añade otras propiedades de la fuente si es necesario, como weight y style */
+  }

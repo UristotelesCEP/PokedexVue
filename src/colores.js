@@ -1,0 +1,21 @@
+export const normal = 'rgba(168, 167, 122, 1)';
+export const fire = 'rgba(238, 129, 48, 1)';
+export const water = 'rgba(99, 144, 240, 1)';
+export const electric = 'rgba(247, 208, 44, 1)';
+export const grass = 'rgba(122, 199, 76, 1)';
+export const ice = 'rgba(150, 217, 214, 1)';
+export const fighting = 'rgba(194, 46, 40, 1)';
+export const poison = 'rgba(163, 62, 161, 1)';
+export const ground = 'rgba(226, 191, 101, 1)';
+export const flying = 'rgba(169, 143, 243, 1)';
+export const psychic = 'rgba(249, 85, 135, 1)';
+export const bug = 'rgba(166, 185, 26, 1)';
+export const rock = 'rgba(182, 161, 54, 1)';
+export const ghost = 'rgba(115, 87, 151, 1)';
+export const dragon = 'rgba(111, 53, 252, 1)';
+export const dark = 'rgba(112, 87, 70, 1)';
+export const steel = 'rgba(183, 183, 206, 1)';
+export const fairy = 'rgba(214, 133, 173, 1)';
+
+export const darkslategray= 'rgba(73, 73, 73, 1)';
+export const transparentdarkslategray= 'rgba(87, 86, 86, 0.774)';
